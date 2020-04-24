@@ -10,6 +10,8 @@ public class Test {
 		System.out.println("³­ Á¶¿ø!!!!!");
 		
 		System.out.println("zzzz");
+		
+		System.out.println("¤»¤»¤»");
 	}
 
 }
