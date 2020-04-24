@@ -8,6 +8,7 @@ public class Test {
 
 		System.out.println("1111");
 		System.out.println("陪 褻錳!!!!!");
+
 		System.out.println("abcd");
 		
 		System.out.println("仃仃仃");
@@ -17,6 +18,12 @@ public class Test {
 		System.out.println("之之之");
 		
 		System.out.println("太太太");
+
+		
+		System.out.println("zzzz");
+		
+		System.out.println("六六六");
+
 	}
 
 }
