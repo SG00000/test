@@ -10,11 +10,11 @@ public class Test {
 		System.out.println("陪 褻錳!!!!!");
 		System.out.println("abcd");
 		
-		System.out.println("");
-		System.out.println("");
+		System.out.println("仃仃仃");
+		System.out.println("仃仃仃");
 		
-		System.out.println("");
-		System.out.println("");
+		System.out.println("之之之");
+		System.out.println("之之之");
 	}
 
 }
