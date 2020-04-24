@@ -12,18 +12,15 @@ public class Test {
 		System.out.println("abcd");
 		
 		System.out.println("ㅁㅁㅁ");
-		System.out.println("ㅁㅁㅁ");
 		
-		System.out.println("ㄷㄷㄷ");
 		System.out.println("ㄷㄷㄷ");
 		
 		System.out.println("ㅣㅣㅣ");
 
 		
-		System.out.println("zzzz");
-		
 		System.out.println("ㅋㅋㅋ");
-
+		
+		System.out.println("나 브랜치 dev1 이야");
 	}
 
 }
