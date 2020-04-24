@@ -15,6 +15,8 @@ public class Test {
 		
 		System.out.println("之之之");
 		System.out.println("之之之");
+		
+		System.out.println("太太太");
 	}
 
 }
